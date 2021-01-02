@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1573592815/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1573592815/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1573592815/PATH/value=C\:\\MinGW\\bin;${MSYS_HOME}\\bin;C\:/Program Files/Java/jre1.8.0_60/bin/server;C\:/Program Files/Java/jre1.8.0_60/bin;C\:/Program Files/Java/jre1.8.0_60/lib/amd64;C\:\\MinGW;C\:\\MinGW\\bin;C\:\\MinGW\\libexec\\gcc\\x86_64-pc-mingw32\\6.1.0;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Pinnacle\\Shared Files\\;C\:\\Program Files (x86)\\Pinnacle\\Shared Files\\Filter\\;C\:\\Program Files\\Java\\jdk1.8.0_45\\\\;C\:\\Program Files\\Java\\jdk1.8.0_45\\\\bin;F\:\\Wallace\\Desenv\\apache-maven-3.2.1\\\\;F\:\\Wallace\\Desenv\\apache-maven-3.2.1\\\\bin;C\:\\Program Files (x86)\\Skype\\Phone\\;E\:\\Wallace\\Desenv\\eclipse-cpp-mars-2
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1573592815/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1573592815/appendContributed=true
